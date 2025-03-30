@@ -1,0 +1,16 @@
+hermite-functions/
+├── hermite/
+│   ├── __init__.py          # Makes it a Python package
+│   ├── hermite.py           # Main implementation
+│   └── tests/               # Unit tests
+│       └── test_hermite.py
+├── examples/
+│   ├── basic_usage.py       # Demo scripts
+│   └── advanced_plots.py
+├── docs/
+│   ├── API.md               # Documentation
+│   └── theory.md
+├── .gitignore
+├── README.md                # Project showcase
+├── requirements.txt         # Dependencies
+└── setup.py                 # For pip installs
